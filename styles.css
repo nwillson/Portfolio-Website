@@ -1,4 +1,4 @@
-@media (max-width: 713px) { 
+@media (max-width: 740px) { 
     .aboutMe{
         margin-top: 50px;
     }
@@ -13,6 +13,21 @@
     
  }
 
+
+ @media (max-width: 713px) { 
+    .aboutMe{
+        margin-top: 50px;
+    }
+
+    img {
+        width: 325px;
+    }
+
+    .col-4 {
+        width: 100vh;
+    }
+    
+ }
 .allBody {
     background-color: black;
 }
